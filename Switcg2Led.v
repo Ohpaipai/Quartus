@@ -1,4 +1,4 @@
-moudle Switch2Led(Sw,Led);
+module Switch2Led(Sw,Led);
 input [9:0]Sw;
 output [9:0]Led;
 reg [9:0]Led;
